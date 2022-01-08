@@ -1,0 +1,15 @@
+{
+  "name": "interval-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mrTomatolegit",
+  "license": "MIT",
+  "private": true,
+  "typings": "./typings/index.d.ts",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
